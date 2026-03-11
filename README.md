@@ -1,23 +1,25 @@
 # BioDash
 
-**BioDash** é um dashboard web para monitoramento e gestão de tanques biológicos.  
-Ele permite visualizar o nível, temperatura, pH e histórico de medições de cada tanque, com gráficos e indicadores intuitivos.
+**BioDash** is a web dashboard for monitoring and managing biological tanks.  
+It allows you to view tank levels, temperature, pH, and measurement history with intuitive charts and indicators.
 
 ---
 
-## **Funcionalidades**
+## **Features**
 
-- Cadastro, edição e remoção de tanques.  
-- Visualização do nível de cada tanque em porcentagem.  
-- Monitoramento de parâmetros importantes: volume, temperatura, pH.  
-- Histórico de medições com timestamp.  
-- Dashboard interativo com gráficos e alertas visuais.
+- Create, edit, and delete tanks.  
+- Display tank level as a percentage.  
+- Monitor key parameters: volume, temperature, pH.  
+- Track historical measurements with timestamps.  
+- Interactive dashboard with charts and visual alerts.
 
 ---
 
-## **Tecnologias**
+## **Technologies**
 
 - **Backend:** .NET 8 / ASP.NET Core Web API  
 - **ORM:** Entity Framework Core  
-- **Banco de Dados:** SQLite (desenvolvimento)  
-- **Frontend:** React + Tailwind CSS (em desenvolvimento)
+- **Database:** SQLite (development)  
+- **Frontend:** React + Tailwind CSS (in progress)
+
+---
